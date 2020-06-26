@@ -988,14 +988,7 @@ h2.price {
 	padding: 9px 10px;
 	border-radius: 2px 0 0 2px;
 }
-.hover-cate:after {
-	content: "\f107";
-    font-family: 'fontawesome';
-    position:absolute;
-	right:20px;
-	top: 10px;
-	font-size: 18px;
-}
+
 #search-by-category .search-container .categories-container .hover-cate .cate-items{
     z-index: 9999;
 	position: absolute;
