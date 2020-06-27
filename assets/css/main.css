@@ -60,3 +60,24 @@
 svg#trk-basket {
     display: none;
 }
+
+
+#search .input-lg {
+    border-radius: 40px !important;
+    border-color: #ccc !important;
+    padding-left: 20px;
+}
+
+#btn-search-category {
+    border-radius: 0px 40px 40px 0px;
+    right: 50px;
+}
+
+.search-box {
+    display: flex;
+}
+
+#wr-menu button {
+    background: #353535;
+    color: #fff;
+}
